@@ -3,7 +3,7 @@ Project for the Stochastic Optimization Algorithms graduate course, Chalmers Uni
 
 
 ## Run the code
-Step 1: Edit the city locations in LoadCityLocations.m
+Step 1: Edit city locations in LoadCityLocations.m
 
 Step 2: Run RunAntSystem.m
 
